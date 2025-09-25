@@ -1,5 +1,4 @@
-# Task3-Web-Scraper-Script
-📖 Project Description – Web Scraper for News Headlines
+# 📖 Project Description – Web Scraper for News Headlines
 
 This project is a Python-based web scraper that collects the latest news headlines from a public news website. Using the requests library, the scraper fetches the HTML content of the webpage, and BeautifulSoup is used to parse and extract relevant text (such as <h2> headline tags). The collected headlines are then stored in a .txt file for easy access and analysis.
 
